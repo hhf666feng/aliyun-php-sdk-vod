@@ -1,0 +1,24 @@
+{
+    "name": "royfj/aliyun-php-sdk-vod",
+    "type": "library",
+    "description": "Aliyun VOD php sdk",
+    "version": "0.1.0",
+    "homepage": "http://www.aliyun.com",
+    "license": "",
+    "authors": [
+        {
+            "name": "Li Guanghui",
+            "email": "liguanghui2006@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "royfj/aliyun-php-sdk-core": "0.1.2"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "vod\\": "src/vod"
+        }
+    }
+}
