@@ -2,7 +2,7 @@
     "name": "royfj/aliyun-php-sdk-vod",
     "type": "library",
     "description": "Aliyun VOD php sdk",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "homepage": "http://www.aliyun.com",
     "license": "",
     "authors": [
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3",
-        "royfj/aliyun-php-sdk-core": "0.1.2"
+        "royfj/aliyun-php-sdk-core": "0.2.0"
     },
 
     "autoload": {
